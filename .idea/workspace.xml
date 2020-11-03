@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84f94fd2-1809-48b8-8cf3-3ab22ba5553f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/01_算法/01_时间序列/pandas生成时间序列.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00_案例/01_信用卡异常检测/fraud_predicted.py" beforeDir="false" afterPath="$PROJECT_DIR$/00_案例/01_信用卡异常检测/fraud_predicted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/1-AI入学指南.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/1-AI入学指南.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/10-EM算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/10-EM算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/11-神经网络.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/11-神经网络.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/12-word2vec.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/12-word2vec.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/2-回归算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/2-回归算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/3-决策树与集成算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/3-决策树与集成算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/4-聚类算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/4-聚类算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/5-贝叶斯算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/5-贝叶斯算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/6-支持向量机.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/6-支持向量机.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/7-推荐系统.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/7-推荐系统.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/8-xgboost.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/8-xgboost.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/9-LDA与PCA算法.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/9-LDA与PCA算法.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/文本分析.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/文本分析.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_机器学习算法PPT/时间序列分析.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/02_机器学习算法PPT/时间序列分析.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00_案例/02_时间序列预测/deb.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/00_案例/02_时间序列预测/deb.xlsx" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -40,23 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../demovirtualenv/Lib/site-packages/sklearn/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="662" column="38" selection-start-line="662" selection-start-column="38" selection-end-line="662" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pandas生成时间序列.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01_算法/01_时间序列/pandas生成时间序列.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-              <folding>
-                <element signature="e#94#113#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="447" column="25" selection-start-line="447" selection-start-column="25" selection-end-line="447" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -90,7 +64,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="160" />
     <option name="height" value="39" />
   </component>
@@ -102,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,14 +103,20 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Demo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\03_Github\algorithm\01_算法\01_时间序列" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,7 +144,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -174,7 +154,7 @@
       <window_info anchor="bottom" id="Python Console" order="4" />
       <window_info anchor="bottom" id="Run" order="9" />
       <window_info anchor="bottom" id="Terminal" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15884861" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16044776" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="2" />
       <window_info anchor="right" id="SciView" order="0" />
@@ -197,6 +177,23 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/00_案例/01_信用卡异常检测/fraud_predicted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#94#113#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../demovirtualenv/Lib/site-packages/sklearn/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19410">
+          <caret line="662" column="38" selection-start-line="662" selection-start-column="38" selection-end-line="662" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/00_案例/01_信用卡异常检测/fraud_predicted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -255,20 +252,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01_算法/01_时间序列/1. Dates &amp; Times.ipynb" />
+    <entry file="file://$PROJECT_DIR$/01_算法/01_时间序列/pandas生成时间序列.py" />
     <entry file="file://$PROJECT_DIR$/../demovirtualenv/Lib/site-packages/sklearn/base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="662" column="38" selection-start-line="662" selection-start-column="38" selection-end-line="662" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_算法/01_时间序列/pandas生成时间序列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="687">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#94#113#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="447" column="25" selection-start-line="447" selection-start-column="25" selection-end-line="447" selection-end-column="25" />
         </state>
       </provider>
     </entry>
